@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Mechanik Dash</string>
+    <string name="title_mechanik">MECHANIK</string>
+    <string name="title_dash">DASH</string>
+    <string name="app_title">MECHANIK DASH</string>
+
+    <!-- Stats -->
+    <string name="stats_grades">OCENY</string>
+    <string name="stats_lives">ŻYCIA</string>
+    <string name="stats_level">LVL %1$d/%2$d</string>
+    <string name="stats_endless_levels">POZIOMY: %1$d</string>
+    <string name="status_completed">UKOŃCZONA</string>
+
+    <!-- Game Over / Win Overlays -->
+    <string name="game_win">WYGRANA!</string>
+    <string name="level_complete_overlay">POZIOM ZALICZONY!</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="endless_completed_count">UKOŃCZONE POZIOMY: %1$d</string>
+
+    <!-- Buttons -->
+    <string name="btn_start">START</string>
+    <string name="btn_try_again">Zagraj ponownie</string>
+    <string name="btn_try_endless">Tryb Endless</string>
+    <string name="btn_restart_full">Rozpocznij grę jeszcze raz</string>
+    <string name="btn_next_level">Następny Poziom</string>
+    <string name="btn_repeat_endless">Powtórz Endless</string>
+    <string name="btn_back_to_levels">Powrót do poziomów</string>
+
+    <!-- Rules/Descriptions (Start Screen) -->
+    <string name="rules_main">MECHANIK DASH\n\nWitaj w szkole! Twoim celem jest zbieranie ocen i dotarcie do wyjścia.\n\nZASADY:\n- Zbieraj OCENY, by zaliczyć poziom\n- Unikaj NAUCZYCIELI i DYREKTORA\n- TELEFON zabiera życie (w sali dodatkowo -1 ocenę!)\n- KSIĄŻKA dodaje +1 życie\n- BALONY pchaj tylko w bok, uważaj by cię nie przygniotły\n- KARTKÓWKA to strata życia\n\nPowodzenia!</string>
+    <string name="rules_endless">TRYB ENDLESS\n\nSzkoła nigdy się nie kończy! Przetrwaj jak najdłużej.\n\nZASADY:\n- Poziomy są losowane\n- Oceny KUMULUJĄ się między etapami\n- Wymagania rosną (+3 co poziom)\n- TELEFONY pojawiają się znacznie częściej!\n- Za każdy telefon w SALI tracisz 1 ocenę!\n- Liczy się Twój rekord poziomów\n\nGotowy na wyzwanie?</string>
+
+    <!-- Game Messages (Dynamic) -->
+    <string name="msg_no_path">Brak przejścia.</string>
+    <string name="msg_wall_blocked">Przeszkoda blokuje drogę.</string>
+    <string name="msg_balloon_pushed">Przepchnięto balon.</string>
+    <string name="msg_balloon_fail">Nie można przepchnąć balonu.</string>
+    <string name="msg_balloon_side">Balon można pchać tylko w bok.</string>
+    <string name="msg_need_more_grades">Potrzebujesz jeszcze %1$d ocen.</string>
+    <string name="msg_grade_collected">Zebrano dobrą ocenę!</string>
+    <string name="msg_phone_distraction">Uczeń zagapił się w telefon.</string>
+    <string name="msg_phone_sala">Telefon w sali! Tracisz ocenę i życie.</string>
+    <string name="msg_extra_life">Zdobyto dodatkowe życie!</string>
+    <string name="msg_quiz_fail">Kartkówka! Uczeń traci życie.</string>
+    <string name="msg_teacher_caught">Nauczyciel zatrzymał ucznia!</string>
+    <string name="msg_miniboss_blocked">Matusiak blokuje korytarz!</string>
+    <string name="msg_boss_win">Dyrektor uznał wysiłek. Stypendium zdobyte!</string>
+    <string name="msg_boss_need_grades">Dyrektor chce więcej ocen: brakuje %1$d.</string>
+    <string name="msg_boss_lose">Bez wystarczającej liczby ocen nie przejdziesz.</string>
+    <string name="msg_boss_need_grades_move">Dyrektor wymaga większej liczby ocen.</string>
+    <string name="msg_endless_start">ZACZYNAMY TRYB ENDLESS!</string>
+    <string name="msg_level_complete">Poziom ukończony!</string>
+    <string name="msg_game_over_final">Koniec gry. Uczeń nie zdobył wystarczająco wielu ocen.</string>
+    <string name="msg_new_random_level">Nowy losowy poziom!</string>
+    <string name="msg_balloon_avoided">Udało się uniknąć balonu!</string>
+    <string name="msg_balloon_crush">Balon spadł na ucznia!</string>
+    <string name="msg_balloon_teacher">Balon przygniata nauczyciela!</string>
+    <string name="msg_teacher_collided">Nauczyciel doszedł do ucznia!</string>
+    <string name="msg_teacher_caught_move">Nauczyciel złapał ucznia!</string>
+    <string name="msg_miniboss_collided">Matusiak dopadł ucznia!</string>
+    <string name="msg_miniboss_caught_move">MiniBoss dopadł ucznia!</string>
+    <string name="msg_boss_collided">Dyrektor złapał ucznia!</string>
+
+    <!-- Level name prefix (Endless mode) -->
+    <string name="label_endless_name">ENDLESS: %1$s</string>
+
+    <!-- Level names and intros -->
+    <string name="level_1_name">Sala Sobczaka</string>
+    <string name="level_1_intro">Poziom 1: Sala Sobczaka — zbierz dobre oceny i unikaj przeszkód.</string>
+
+    <string name="level_2_name">Korytarz 3 Piętro</string>
+    <string name="level_2_intro">Poziom 2: Korytarz 3 Piętro — uważaj na nauczycieli i Kartkówki.</string>
+
+    <string name="level_3_name">Sala Elektryków</string>
+    <string name="level_3_intro">Poziom 3: Sala Elektryków — idź po oceny i nie wpadaj na przeszkody.</string>
+
+    <string name="level_4_name">Korytarz 2 Piętro</string>
+    <string name="level_4_intro">Poziom 4: Korytarz 2 Piętro — wąskie przejścia i więcej pułapek.</string>
+
+    <string name="level_5_name">Aula</string>
+    <string name="level_5_intro">Poziom 5: Aula — większa przestrzeń, ale też więcej zagrożeń.</string>
+
+    <string name="level_6_name">Korytarz 1 Piętro (Matusiak — Mini Boss)</string>
+    <string name="level_6_intro">Poziom 6: Mini boss Matusiak blokuje drogę.</string>
+
+    <string name="level_7_name">Sala Robotyków</string>
+    <string name="level_7_intro">Poziom 7: Sala Robotyków — szybciej i trudniej.</string>
+
+    <string name="level_8_name">Wyjście (Dyrektor — BOSS)</string>
+    <string name="level_8_intro">Poziom 8: Dyrektor pilnuje wyjścia. Jeśli masz dość ocen, wygrywasz.</string>
+</resources>
