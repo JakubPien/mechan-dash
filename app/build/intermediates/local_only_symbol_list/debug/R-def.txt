@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+drawable balon
+drawable balon1
+drawable balon3
+drawable balon_gif
+drawable exit
+drawable femaletecher
+drawable femaletecher2
+drawable floor
+drawable kartkowka
+drawable ksiazk1
+drawable ksiazka
+drawable lawka
+drawable maletecher
+drawable ocena
+drawable sofa
+drawable telefon
+drawable tlo_wyjscie
+drawable uczen
+drawable wall
+string app_name
+style Theme.MechanikDash
