@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mechanikdash.app-mergeDebugResources-54:/values-km/values-km.xml",
+            "outputFile": "com.mechanikdash.game.app-mergeDebugResources-54:/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/Users/jakub.pieniezny/.gradle/caches/9.0-milestone-1/transforms/45dc7c16914b4dee4f9c6597dd1c3e80/transformed/material3-release/res/values-km/values-km.xml",

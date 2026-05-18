@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-
 }
 
 android {
@@ -12,8 +11,8 @@ android {
         applicationId = "com.mechanikdash.game"
         minSdk = 24
         targetSdk = 35
-        versionCode = 8
-        versionName = "1.8"
+        versionCode = 7
+        versionName = "1.7"
 
         vectorDrawables {
             useSupportLibrary = true
@@ -55,11 +54,12 @@ android {
 }
 
 dependencies {
-    implementation(platform("androidx.compose:compose-bom:2024.06.00"))
-    implementation("androidx.activity:activity-compose:1.9.0")
+    implementation(platform("androidx.compose:compose-bom:2024.12.01"))
+    implementation("androidx.activity:activity-compose:1.10.0")
     implementation("androidx.compose.material3:material3")
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
     debugImplementation("androidx.compose.ui:ui-tooling")
-    implementation("com.google.android.material:material:1.11.0")
+    implementation("com.google.android.material:material:1.12.0")
+    implementation("androidx.core:core-ktx:1.15.0")
 }

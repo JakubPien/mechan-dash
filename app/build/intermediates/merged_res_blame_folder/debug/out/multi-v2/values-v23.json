@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mechanikdash.app-mergeDebugResources-54:/values-v23/values-v23.xml",
+            "outputFile": "com.mechanikdash.game.app-mergeDebugResources-54:/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/jakub.pieniezny/.gradle/caches/9.0-milestone-1/transforms/840254a21ca750de23292c1ffa898785/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

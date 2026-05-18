@@ -1,86 +1,142 @@
 [
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_ksiazk1.jpeg.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/ksiazk1.jpeg"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_femaletecher2.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/femaletecher2.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_lawka.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/lawka.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_kartkowka.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/kartkowka.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_exit.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/exit.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_kartkowka.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/kartkowka.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_sofa.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/sofa.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/raw_soundtrack.mp3.flat",
+        "source": "com.mechanikdash.game.app-main-58:/raw/soundtrack.mp3"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_uczen.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/uczen.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_ksiazka.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/ksiazka.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_sofa.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/sofa.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_wall.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/wall.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_balon3.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/balon3.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_femaletecher.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/femaletecher.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_balon.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/balon.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_wall.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/wall.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_tlo_wyjscie.jpg.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/tlo_wyjscie.jpg"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_lawka.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/lawka.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.mechanikdash.app-merged_res-56:/drawable_ocena.png.flat",
-        "source": "com.example.mechanikdash.app-main-58:/drawable/ocena.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_balon.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/balon.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_nauczyciel2.jpeg.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/nauczyciel2.jpeg"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_maletecher.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/maletecher.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_balon1.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/balon1.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_maletecher.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/maletecher.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_ksiazk1.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/ksiazk1.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_femaletecher.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/femaletecher.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_balon_gif.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/balon_gif.webp"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_ocena.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/ocena.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_tlo_wyjscie.jpg.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/tlo_wyjscie.jpg"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_floor.png.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/floor.png"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_balon_gif.webp.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/balon_gif.webp"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_floor.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/floor.png"
     },
     {
-        "merged": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-merged_res-56:/drawable_telefon.avif.flat",
-        "source": "/Users/jakub.pieniezny/.gradle/daemon/9.0-milestone-1/com.example.mechanikdash.app-main-58:/drawable/telefon.avif"
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_ocena.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/ocena.png"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_femaletecher2.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/femaletecher2.png"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_exit.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/exit.png"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_telefon.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/telefon.png"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/drawable_uczen.png.flat",
+        "source": "com.mechanikdash.game.app-main-58:/drawable/uczen.png"
+    },
+    {
+        "merged": "com.mechanikdash.game.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.mechanikdash.game.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
     }
 ]

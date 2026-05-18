@@ -5,7 +5,7 @@
     <!-- Start Screen -->
     <string name="title_mechanik">MECHANIK</string>
     <string name="title_dash">DASH</string>
-    <string name="rules_main">MECHANIK DASH\n\nWitaj w szkole! Twoim celem jest zbieranie ocen i dotarcie do wyjścia.\n\nZASADY:\n- Zbieraj OCENY, by zaliczyć poziom\n- Unikaj NAUCZYCIELI i DYREKTORA\n- TELEFON zabiera życie (w sali dodatkowo -1 ocenę!)\n- KSIĄŻKA dodaje +1 życie\n- BALONY pchaj tylko w bok, uważaj by cię nie przygniotły\n- KARTKÓWKA to strata życia\n\nPowodzenia!</string>
+    <string name="rules_main">MECHANIK DASH\n\nWitaj w szkole! Twoim celem jest zbieranie ocen i dotarcie do wyjścia.\n\nZASADY:\n- Zbieraj OCENY, by zaliczyć poziom\n- Unikaj NAUCZYCIELI i DYREKTORA jeśli jesteś złym uczniem nie będzie dla ciebie zbyt miły!\n- TELEFON zabiera życie (w sali dodatkowo -1 ocenę!)\n- KSIĄŻKA dodaje +1 życie\n- BALONY pchaj tylko w bok, uważaj by cię nie przygniotły Możesz wykorzystać je do ułatwienia sobie przejścia\n- KARTKÓWKA to strata życia ak większość uczniów nie lubisz się uczyć\n\nPowodzenia!</string>
     <string name="rules_endless">TRYB ENDLESS\n\nSzkoła nigdy się nie kończy! Przetrwaj jak najdłużej.\n\nZASADY:\n- Poziomy są losowane\n- Oceny KUMULUJĄ się między etapami\n- Wymagania rosną (+3 co poziom)\n- TELEFONY pojawiają się znacznie częściej!\n- Za każdy telefon w SALI tracisz 1 ocenę!\n- Liczy się Twój rekord poziomów\n\nGotowy na wyzwanie?</string>
     <string name="btn_start">START</string>
 
@@ -29,7 +29,7 @@
     <!-- Game Messages -->
     <string name="msg_no_pass">Brak przejścia.</string>
     <string name="msg_teacher_caught">Nauczyciel zatrzymał ucznia!</string>
-    <string name="msg_miniboss_blocked">Matusiak blokuje korytarz!</string>
+    <string name="msg_miniboss_blocked">Pani Matusiak blokuje korytarz!</string>
     <string name="msg_scholarship_won">Dyrektor uznał wysiłek. Stypendium zdobyte!</string>
     <string name="msg_need_more_grades">Dyrektor chce więcej ocen: brakuje %1$d.</string>
     <string name="msg_no_grades_no_pass">Bez wystarczającej liczby ocen nie przejdziesz.</string>
@@ -47,7 +47,7 @@
     <string name="msg_miniboss_caught">Matusiak dopadł ucznia!</string>
     <string name="msg_boss_need_grades">Dyrektor wymaga większej liczby ocen.</string>
     <string name="msg_teacher_caught_player">Nauczyciel złapał ucznia!</string>
-    <string name="msg_miniboss_caught_player">MiniBoss dopadł ucznia!</string>
+    <string name="msg_miniboss_caught_player">Pani Matusiak dopadła ucznia!</string>
     <string name="msg_boss_caught_player">Dyrektor złapał ucznia!</string>
     <string name="msg_balloon_avoided">Udało się uniknąć balonu!</string>
     <string name="msg_balloon_hit_player">Balon spadł na ucznia!</string>
@@ -74,8 +74,8 @@
     <string name="level_4_intro">Poziom 4: Korytarz 2 Piętro — wąskie przejścia i więcej pułapek.</string>
     <string name="level_5_name">Aula</string>
     <string name="level_5_intro">Poziom 5: Aula — większa przestrzeń, ale też więcej zagrożeń.</string>
-    <string name="level_6_name">Korytarz 1 Piętro (Matusiak — Mini Boss)</string>
-    <string name="level_6_intro">Poziom 6: Mini boss Matusiak blokuje drogę.</string>
+    <string name="level_6_name">Korytarz 1 Piętro (Pani Matusiak — Mini Boss)</string>
+    <string name="level_6_intro">Poziom 6: Mini boss Pani Matusiak blokuje drogę.</string>
     <string name="level_7_name">Sala Robotyków</string>
     <string name="level_7_intro">Poziom 7: Sala Robotyków — szybciej i trudniej.</string>
     <string name="level_8_name">Wyjście (Dyrektor — BOSS)</string>
