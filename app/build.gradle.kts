@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mechanikdash"
-    compileSdk = 34
+    namespace = "com.mechanikdash.game"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.mechanikdash"
+        applicationId = "com.mechanikdash.game"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        targetSdk = 35
+        versionCode = 8
+        versionName = "1.8"
 
         vectorDrawables {
             useSupportLibrary = true
