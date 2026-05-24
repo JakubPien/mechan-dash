@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Mechanik Dash</string>
-    <string name="app_title">MECHANIK DASH</string>
+    <string name="app_name">Mechan Dash</string>
+    <string name="app_title">MECHAN DASH</string>
 
     <!-- Start Screen -->
-    <string name="title_mechanik">MECHANIK</string>
+    <string name="title_mechan">MECHAN</string>
     <string name="title_dash">DASH</string>
-    <string name="rules_main">MECHANIK DASH\n\nWitaj w szkole! Twoim celem jest zbieranie ocen i dotarcie do wyjścia.\n\nZASADY:\n- Zbieraj OCENY, by zaliczyć poziom\n- Unikaj NAUCZYCIELI i DYREKTORA\n- TELEFON zabiera życie (w sali dodatkowo -1 ocenę!)\n- KSIĄŻKA dodaje +1 życie\n- BALONY pchaj tylko w bok, uważaj by cię nie przygniotły\n- KARTKÓWKA to strata życia\n\nPowodzenia!</string>
+    <string name="rules_main">MECHAN DASH\n\nWitaj w szkole! Twoim celem jest zbieranie ocen i dotarcie do wyjścia.\n\nZASADY:\n- Zbieraj OCENY, by zaliczyć poziom\n- Unikaj NAUCZYCIELI i DYREKTORA\n- TELEFON zabiera życie (w sali dodatkowo -1 ocenę!)\n- KSIĄŻKA dodaje +1 życie\n- BALONY pchaj tylko w bok, uważaj by cię nie przygniotły\n- KARTKÓWKA to strata życia\n\nPowodzenia!</string>
     <string name="rules_endless">TRYB ENDLESS\n\nSzkoła nigdy się nie kończy! Przetrwaj jak najdłużej.\n\nZASADY:\n- Poziomy są losowane\n- Oceny KUMULUJĄ się między etapami\n- Wymagania rosną (+3 co poziom)\n- TELEFONY pojawiają się znacznie częściej!\n- Za każdy telefon w SALI tracisz 1 ocenę!\n- Liczy się Twój rekord poziomów\n\nGotowy na wyzwanie?</string>
     <string name="btn_start">START</string>
 
@@ -16,6 +16,16 @@
     <string name="btn_next_level">NASTĘPNY POZIOM</string>
     <string name="btn_repeat_endless">POWTÓRZ ENDLESS</string>
     <string name="btn_back_to_levels">POWRÓT DO POZIOMÓW</string>
+    <string name="btn_settings">⚙</string>
+    <string name="btn_back">WRÓĆ</string>
+    <string name="btn_normal_mode">TRYB NORMALNY</string>
+    <string name="btn_control_buttons">PRZYCISKI</string>
+    <string name="btn_control_swipe">PRZESUWANIE</string>
+    <string name="btn_wait">WAIT</string>
+    <string name="btn_restart_level">POZIOM</string>
+    <string name="btn_restart_game">GRA</string>
+    <string name="btn_cancel">ANULUJ</string>
+    <string name="btn_restart">RESTART</string>
 
     <!-- Stats -->
     <string name="stats_level">POZIOM %1$d/%2$d</string>
@@ -56,7 +66,17 @@
     <string name="msg_new_random_level">Nowy losowy poziom!</string>
     <string name="msg_level_complete_msg">Poziom ukończony!</string>
     <string name="msg_endless_start">ZACZYNAMY TRYB ENDLESS!</string>
+    <string name="msg_wait_turn">Czekasz jedną turę.</string>
+    <string name="msg_level_restarted">Poziom zrestartowany.</string>
     <string name="err_levels_empty">Lista poziomów nie może być pusta.</string>
+
+    <!-- Menu / Settings -->
+    <string name="menu_unlock_endless">Endless odblokuje się po 3 ukończeniach zwykłej gry. Postęp: %1$d/3</string>
+    <string name="settings_title">USTAWIENIA</string>
+    <string name="settings_music">Muzyka</string>
+    <string name="settings_controls">Sterowanie</string>
+    <string name="restart_dialog_title">Restart</string>
+    <string name="restart_dialog_text">Co chcesz zrestartować?</string>
 
     <!-- Overlay Text -->
     <string name="game_win">WYGRANA!</string>
@@ -85,6 +105,7 @@
     <string name="icon_home">🏠</string>
     <string name="icon_mute">🔇</string>
     <string name="icon_unmute">🔊</string>
+    <string name="icon_settings">⚙</string>
     <string name="arrow_up">↑</string>
     <string name="arrow_down">↓</string>
     <string name="arrow_left">←</string>
